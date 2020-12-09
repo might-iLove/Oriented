@@ -1,4 +1,4 @@
-package Oriented;
+package Oriented.Property;
 
 public class Test {
     //这个类没有什么现实意义

@@ -1,4 +1,4 @@
-package Oriented;
+package Oriented.Property;
 
 public class Person {
     //这个文件是在计算机内 画的一张图纸
